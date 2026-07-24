@@ -23,7 +23,7 @@ My primary focus is leveraging computer vision (CNNs, VLMs) and Natural Language
 <details>
 <summary><b>✨ When I'm not coding... (Click to expand)</b></summary>
 <br/>
-I'm usually optimizing GCam ports for computational photography, practicing last-layer Rubik's cube algorithms, hanging out with my 7-year-old Shih Tzu, or gaming with friends.
+hanging out with my 7-year-old Shih Tzu, or gaming with friends.
 </details>
 
 ---
