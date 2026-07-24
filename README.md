@@ -16,9 +16,7 @@
 
 I'm a graduating Computer Science student from Holy Angel University (HAU), Mabalacat, Philippines — specializing in **AI engineering**, **machine learning**, and **cloud-integrated systems**.
 
-I build things that solve real problems. My thesis project **Antigravity** is an AI-powered essay grading app designed to help teachers save time and give better feedback. I'm currently expanding it with RAG pipelines, LangChain, and agentic workflows.
-
-When I'm not building AI systems, I'm VP of **HAU-SVE (Scholar Volunteers for the Environment)** — because good engineers care about more than just code.
+I build things that solve real problems. My thesis project **TulongGuro** is an AI-powered essay grading app designed to help teachers save time and give better feedback. I'm currently expanding it with RAG pipelines, LangChain, and agentic workflows.
 
 ---
 
@@ -64,7 +62,7 @@ When I'm not building AI systems, I'm VP of **HAU-SVE (Scholar Volunteers for th
 
 ## 🔥 Featured Projects
 
-### 🎓 Antigravity — AI Essay Grading App *(Thesis)*
+### 🎓 TulongGuro — AI Essay Grading App *(Thesis)*
 > An AI-powered essay grading system that helps teachers automate feedback and scoring using LLMs and RAG pipelines.
 
 - Built with **LangChain**, **Claude API**, **Python**
@@ -77,10 +75,6 @@ When I'm not building AI systems, I'm VP of **HAU-SVE (Scholar Volunteers for th
 ### 📝 TulongGuro — AI-Powered LMS Gradebook
 > An intelligent learning management system that automates feedback for handwritten essays using Vision-Language Models.
 
-- Built with **VLM (Vision-Language Model)** for handwriting recognition
-- Automated feedback generation pipeline
-- Designed to support Filipino teachers with AI-assisted grading
-- Stack: **Python**, **AWS**, **Docker**, **MariaDB**, **Nginx**
 
 ---
 
