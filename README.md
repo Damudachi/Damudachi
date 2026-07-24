@@ -1,32 +1,24 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=2,6,12&text=ALDRICH%20SABANDO&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=System%20Architect%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Vision%20Specialist&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=220&color=gradient&customColorList=2,6,12,2&text=ALDRICH%20SABANDO&fontColor=ffffff&fontSize=65&fontAlignY=40&desc=System%20Architect%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Vision%20Specialist&descAlignY=65&descSize=20&animation=twinkling" />
 
 <br/>
 
-```
-class Engineer:
-    def __init__(self):
-        self.name = "Aldrich Gavriel Sabando"
-        self.role = ["AI/ML Engineer", "Cloud Architect", "VLM Researcher"]
-        self.location = "Mabalacat, Pampanga, PH"
-        self.status = "compiling_thesis.exe"
-
-    def current_focus(self) -> list:
-        return ["Vision-Language Models", "Edge-to-Cloud Pipelines", "AWS Certs"]
-```
+<a href="https://github.com/damudachi">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Building+Vision-Language+Models;Architecting+Edge-to-Cloud+Pipelines;Optimizing+Real-Time+Inference;Deploying+Neural+Networks" alt="Typing SVG" />
+</a>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F0FF)](https://www.linkedin.com/in/aldrich-gavriel-sabando-a4b85a348/)
-[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=00F0FF)](https://github.com/damudachi)
-![Profile Views](https://komarev.com/ghpvc/?username=damudachi&color=00F0FF&style=for-the-badge&label=SIGNAL+RECEIVED)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00F0FF)](https://www.linkedin.com/in/aldrich-gavriel-sabando-a4b85a348/)
+[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00F0FF)](https://github.com/damudachi)
+![Profile Views](https://komarev.com/ghpvc/?username=damudachi&color=00F0FF&style=for-the-badge&label=NEURAL+LINK+ESTABLISHED)
 
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%">
 
 <br/>
 
@@ -34,34 +26,38 @@ class Engineer:
 <tr>
 <td width="50%" valign="top">
 
-### `> whoami`
+### 💻 `SYS.INIT()`
 
-```yaml
-architect: Aldrich Gavriel Sabando
-location: Mabalacat, Pampanga, PH
-education: 4th-Year Computer Science
-university: Holy Angel University
-core_stack:
-  - Vision-Language Models (VLMs)
-  - Edge-to-Cloud AI Architecture
-  - Real-Time Computer Vision
+```json
+{
+  "architect": "Aldrich Gavriel Sabando",
+  "location": "Mabalacat, Pampanga, PH",
+  "education": "BSc Computer Science",
+  "university": "Holy Angel University",
+  "status": "compiling_thesis.exe",
+  "core_stack": [
+    "Vision-Language Models",
+    "Edge-to-Cloud AI",
+    "Real-Time Computer Vision"
+  ]
+}
 ```
 
 </td>
 <td width="50%" valign="top">
 
-### `> pursuing.targets`
+### 🎯 `CURRENT.PROCESSES`
 
 ```yaml
-certifications:
+targets:
   - AWS Academy :: Networking
   - AWS Academy :: Cloud Compute
-
-open_to:
+  
+open_connections:
   - AI/ML Research Collaborations
   - Cloud Engineering Roles
 
-background_processes:
+background_daemons:
   - GCam port optimization
   - Rubik's cube algorithms
   - Shih Tzu ops (7yr uptime)
@@ -76,21 +72,21 @@ background_processes:
 
 <div align="center">
 
-### ⚡ TECHNICAL ARSENAL
+### ⚙️ TECHNICAL ARSENAL
 
-<img src="https://skillicons.dev/icons?i=python,js,java,react,aws,docker,nginx,mysql,git,github,linux,bash&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=python,java,js,react,aws,docker,nginx,mysql,linux,bash,git,github&theme=dark&perline=12" />
 
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%">
 
 <br/>
 
 <div align="center">
 
-## 🧠 DEPLOYED ARCHITECTURES
+### 🚀 DEPLOYED ARCHITECTURES
 
 </div>
 
@@ -98,44 +94,36 @@ background_processes:
 <tr>
 <td width="50%" valign="top">
 
-### 📝 `TulongGuro`
-**Thesis Project**
-
-Hybrid edge-to-cloud automated feedback system for Grade 6 assessments.
-
-`Vision-Language Models` `AWS Edge-to-Cloud` `Agile / CRISP-DM`
+#### 🤖 `TulongGuro` [ Thesis ]
+**Hybrid Edge-to-Cloud Automated Feedback**
+System for Grade 6 assessments utilizing LLMs and CV.
+> `Vision-Language Models` `AWS` `CRISP-DM`
 
 </td>
 <td width="50%" valign="top">
 
-### 🦺 `MIGHT-TEAM_INTELSY`
-**Industrial Safety AI**
-
-Real-time PPE compliance monitor for industrial safety detection.
-
-`YOLOv8` `Object Detection` `Real-Time Inference`
+#### 🦺 `MIGHT-TEAM_INTELSY`
+**Industrial Safety AI Monitor**
+Real-time PPE compliance monitor for safety detection.
+> `YOLOv8` `Object Detection` `Real-Time Inference`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🏢 `Facility Ops NLP`
-**Helpdesk Automation**
-
-Intelligent maintenance ticket classifier for commercial mall operations.
-
-`BERT` `NLP Classification` `Pipeline Engineering`
+#### 🏢 `Facility Ops NLP`
+**Helpdesk Automation AI**
+Intelligent maintenance ticket classifier for mall operations.
+> `BERT` `NLP Classification` `Pipeline Engineering`
 
 </td>
 <td width="50%" valign="top">
 
-### 🐟 `AquaFresh`
-**Computer Vision**
-
-Colorimetric analysis system for automated fish freshness grading.
-
-`Machine Learning` `Image Processing` `Data Analysis`
+#### 🐟 `AquaFresh`
+**Computer Vision Analyst**
+Colorimetric analysis system for automated fish grading.
+> `Machine Learning` `Image Processing` `OpenCV`
 
 </td>
 </tr>
@@ -143,13 +131,13 @@ Colorimetric analysis system for automated fish freshness grading.
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%">
 
 <br/>
 
 <div align="center">
 
-## 📊 TELEMETRY
+### 📈 TELEMETRY DATA
 
 <img src="https://github-readme-stats.vercel.app/api?username=damudachi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=A9B1D6" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damudachi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=A9B1D6" height="165"/>
@@ -158,18 +146,11 @@ Colorimetric analysis system for automated fish freshness grading.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=damudachi&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" />
 
-</div>
+<br/><br/>
 
-<br/>
+### 📡 `STATUS: READY_TO_CONNECT`
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-<div align="center">
-<br/>
-
-### 🌱 `status: OPEN_TO_CONNECT`
-
-**AI/ML Collaborations** &nbsp;•&nbsp; **Cloud Engineering Roles**
+**[ AI/ML Collaborations ] &nbsp;•&nbsp; [ Cloud Engineering Roles ]**
 
 <br/>
 
@@ -178,6 +159,6 @@ Colorimetric analysis system for automated fish freshness grading.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=2,6,12&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=gradient&customColorList=2,6,12,2&section=footer" width="100%"/>
 
 </div>
