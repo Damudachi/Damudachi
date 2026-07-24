@@ -53,6 +53,11 @@ I engineer **AI-driven** and **cloud-integrated architecture** designed to solve
 *   **Infrastructure:** AWS edge-to-cloud integration.
 *   **Framework:** Built rigorously following CRISP-DM and Agile methodologies.
 
+### 🦺 MIGHT-TEAM_INTELSY
+**Architecture:** Real-time PPE Detection System
+*   **Engine:** YOLOv8 computer vision models for real-time object detection.
+*   **Infrastructure:** Industrial safety compliance monitoring, detecting the presence or absence of PPE in workplace environments.
+
 ### 🐟 AquaFresh 
 **Architecture:** Computer Vision Classification Pipeline
 *   **Engine:** Colorimetric machine learning models analyzing visual data for biological degradation.
@@ -94,7 +99,11 @@ When offline from main directives, CPU cycles are allocated to:
 
 ## 📡 OPEN.PORTS // Opportunities
 
-```bash
-> Seeking: "Institutional Internship Programs" --location="Japan"
+<pre><code>> Seeking: "Institutional Internship Programs" --location="Japan"
 > Seeking: "AI/ML Project Collaborations" --focus="Computer Vision"
-> Seeking: "Cloud Infrastructure Roles" --stack="AWS"
+> Seeking: "Cloud Infrastructure Roles" --stack="AWS"</code></pre>
+
+<div align="center">
+<br/>
+<i>"The best engineers aren't the ones who write the most code. They're the ones who build things that actually matter."</i>
+</div>
