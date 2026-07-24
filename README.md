@@ -1,132 +1,99 @@
 <div align="center">
 
-<!-- Futuristic Console Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ffcc&height=250&section=header&text=System.init(Aldrich_Sabando)&fontSize=40&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Vision%20Specialist&descAlignY=51&descAlign=50" />
+<img src="[https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=Aldrich_Sabando&fontSize=60&fontColor=36BCF7&animation=fadeIn](https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=Aldrich_Sabando&fontSize=60&fontColor=36BCF7&animation=fadeIn)" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Training+Vision-Language+Models;Architecting+Serverless+Cloud+Pipelines;Tuning+Computational+Photography;Deploying+Edge-to-Cloud+AI" alt="Typing SVG" /></a>
+<a href="[https://git.io/typing-svg](https://git.io/typing-svg)">
+  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=A9B1D6&center=true&vCenter=true&width=600&lines=System+Architect+%7C+AI+Engineer+%7C+Vision+Specialist;Building+AI-driven,+cloud-integrated+systems;Optimizing+Machine+Learning+Pipelines;Exploring+Vision-Language+Models;Preparing+for+Cloud+Certifications](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=A9B1D6&center=true&vCenter=true&width=600&lines=System+Architect+%7C+AI+Engineer+%7C+Vision+Specialist;Building+AI-driven,+cloud-integrated+systems;Optimizing+Machine+Learning+Pipelines;Exploring+Vision-Language+Models;Preparing+for+Cloud+Certifications)" alt="Typing SVG" />
+</a>
 
 <br/>
-<a href="https://www.linkedin.com/in/aldrich-gavriel-sabando-a4b85a348/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/damudachi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="[https://www.linkedin.com/in/aldrich-gavriel-sabando-a4b85a348/](https://www.linkedin.com/in/aldrich-gavriel-sabando-a4b85a348/)"><img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)" alt="LinkedIn" /></a>[cite: 1]
+<a href="[https://github.com/damudachi](https://github.com/damudachi)"><img src="[https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)" alt="GitHub" /></a>[cite: 1]
+<img src="[https://komarev.com/ghpvc/?username=damudachi&color=36BCF7&style=flat-square&label=VIEWS](https://komarev.com/ghpvc/?username=damudachi&color=36BCF7&style=flat-square&label=VIEWS)" alt="Profile Views" />[cite: 1]
+
 <br/><br/>
-<img src="https://komarev.com/ghpvc/?username=damudachi&color=00ffcc&style=for-the-badge&label=SYSTEM+VIEWS" alt="Profile Views" />
+</div>
 
+### 👨‍💻 `init_profile.json`
+
+```json
+{
+  "architect": "Aldrich Gavriel Sabando",
+  "location": "Mabalacat, Pampanga",
+  "education": "4th-Year Computer Science @ Holy Angel University",
+  "specialization": [
+    "AI-driven systems", 
+    "Cloud Architecture", 
+    "Vision-Language Models (VLMs)"
+  ],
+  "current_targets": {
+    "certifications": [
+      "AWS Academy Networking", 
+      "AWS Academy Compute"
+    ],
+    "career": [
+      "Internship in Japan", 
+      "AI/ML Collaborations", 
+      "Cloud Roles"
+    ]
+  },
+  "background_threads": [
+    "Optimizing GCam ports for mobile",
+    "Solving impossible Rubik's cube configurations",
+    "Managing a 7-year-old Shih Tzu",
+    "Nighttime multiplayer gaming"
+  ]
+}
+```
+
+---
+
+<div align="center">
+  <h3>⚡ Technical Arsenal</h3>
+  <p><i>Core technologies I use to build and scale applications.</i></p>
+  
+  <a href="[https://skillicons.dev](https://skillicons.dev)">
+    <img src="[https://skillicons.dev/icons?i=python,js,java,react,aws,docker,nginx,mysql,git,github,linux,bash&theme=dark&perline=6](https://skillicons.dev/icons?i=python,js,java,react,aws,docker,nginx,mysql,git,github,linux,bash&theme=dark&perline=6)" alt="Skill Icons" />
+  </a>
 </div>
 
 ---
 
-## 🧠 Core Override: About Me
+### 🚀 Deployed Architectures
 
-I'm a 4th-year Computer Science student at Holy Angel University (HAU) in Mabalacat, Pampanga. Inspired by my parents' strong sense of responsibility to help others, I specialize in building **AI-driven**, **cloud-integrated systems** that bridge the gap between complex algorithms and real-world utility. 
+> **📝 TulongGuro** <i>(Thesis)</i>[cite: 1]  
+> A hybrid edge-to-cloud automated feedback system for Grade 6 assessments.[cite: 1]  
+> `Vision-Language Models (VLMs)` `AWS Edge-to-Cloud` `Agile/CRISP-DM`[cite: 1]
 
-My architecture focuses heavily on leveraging computer vision (CNNs, VLMs) and Natural Language Processing for applied software development. Whether I'm managing serverless AWS environments (EC2, RDS, Lambda), fine-tuning mobile camera sensors for computational photography, or breaking down orientation algorithms for impossible physical puzzle configurations, I thrive on optimization.
+> **🦺 MIGHT-TEAM_INTELSY**[cite: 1]  
+> Real-time industrial safety compliance monitor detecting the presence/absence of Personal Protective Equipment (PPE).[cite: 1]  
+> `YOLOv8` `Object Detection` `Real-Time Inference`[cite: 1]
 
-<details>
-<summary><b>⚡ Background Processes (Click to expand)</b></summary>
-<br/>
-<ul>
-  <li>Running nighttime multiplayer lobbies with my squad</li>
-  <li>Optimizing GCam ports for better contrast and image processing</li>
-  <li>Hanging out with my 7-year-old Shih Tzu</li>
-</ul>
-</details>
+> **🏢 Facility Management Automation**[cite: 1]  
+> Intelligent maintenance helpdesk system built for commercial mall operations.[cite: 1]  
+> `BERT` `NLP Classification` `Pipeline Engineering`[cite: 1]
+
+> **🐟 AquaFresh**[cite: 1]  
+> Computer vision project utilizing colorimetric analysis for fish freshness assessment.[cite: 1]  
+> `Machine Learning` `Image Processing Workflows` `Data Analysis`[cite: 1]
 
 ---
 
-## 🛠️ Tech Stack & Infrastructure
+### 📊 Telemetry & Analytics
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%"><b>Core Execution</b></td>
-      <td align="center" width="33%"><b>Neural & Vision Models</b></td>
-      <td align="center" width="33%"><b>Cloud & Deployment</b></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br/>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /><br/>
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🔥 Deployed Systems & Research
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>📝 TulongGuro <i>(Thesis)</i></h3>
-      <p>A hybrid edge-to-cloud automated feedback system for Grade 6 assessments.</p>
-      <ul>
-        <li>Leverages <b>Vision-Language Models (VLMs)</b> and OCR capabilities</li>
-        <li>Edge-to-cloud integration via <b>AWS</b></li>
-        <li>Built on Agile & CRISP-DM frameworks</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>🦺 MIGHT-TEAM_INTELSY</h3>
-      <p>Real-time Personal Protective Equipment (PPE) detection system.</p>
-      <ul>
-        <li>Uses <b>YOLOv8</b> for real-time object detection</li>
-        <li>Monitors industrial safety compliance</li>
-        <li>Detects presence/absence of PPE</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🐟 AquaFresh</h3>
-      <p>Computer vision project utilizing colorimetric analysis for fish freshness assessment.</p>
-      <ul>
-        <li>Applied <b>Machine Learning</b> algorithms</li>
-        <li>Streamlined image processing workflows</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>🏢 Facility Management Automation</h3>
-      <p>An intelligent maintenance helpdesk system built for commercial mall operations.</p>
-      <ul>
-        <li>Engineered an NLP classification pipeline using <b>BERT</b></li>
-        <li>Automated sorting and tagging of maintenance requests</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 Telemetry Data
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=damudachi&show_icons=true&theme=matrix&hide_border=true&include_all_commits=true&count_private=true" alt="Aldrich's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damudachi&layout=compact&theme=matrix&hide_border=true" alt="Top Languages" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=damudachi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117](https://github-readme-stats.vercel.app/api?username=damudachi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117)" alt="Aldrich's GitHub Stats" />[cite: 1]
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=damudachi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117](https://github-readme-stats.vercel.app/api/top-langs/?username=damudachi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)" alt="Top Languages" />[cite: 1]
 </div>
 
 ---
 
 <div align="center">
 
-### 📡 System Status
-**Pre-computing:** AWS Academy Certifications (Networking & Compute) • **Pinging:** Internships in Japan • **Deploying:** AI/ML & Cloud Collaborations
+### 🌱 Open To
+**Internships in Japan** • **AI/ML Collaborations** • **Cloud Roles**[cite: 1]
 
 <br/>
-<i>"The best engineers aren't the ones who write the most code. They're the ones who build things that actually matter."</i>
+<i>"The best engineers aren't the ones who write the most code. They're the ones who build things that actually matter."</i>[cite: 1]
 
 </div>
