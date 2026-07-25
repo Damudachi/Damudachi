@@ -9,7 +9,7 @@
 <div align="center">
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/api?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=Building+Vision-Language+Models+%E2%9C%93;Architecting+Edge-to-Cloud+AI+Pipelines+%E2%9C%93;Real-Time+Computer+Vision+%E2%9C%93;Deploying+Neural+Networks+that+matter.)](https://github.com/damudachi)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=Building+Vision-Language+Models;Architecting+Edge-to-Cloud+AI+Pipelines;Real-Time+Computer+Vision;Deploying+Neural+Networks+that+matter.)](https://github.com/damudachi)
 
 </div>
 
