@@ -62,10 +62,6 @@
 
 ### 📡 ACTIVE THREADS
 
-**Certifications in Progress**
-
-![AWS](https://img.shields.io/badge/AWS%20Cloud%20Compute-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=0D1117)
-![AWS](https://img.shields.io/badge/AWS%20Networking-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=0D1117)
 
 **Open To**
 
@@ -75,7 +71,6 @@
 **Background Daemons**
 
 🎮 Nighttime co-op raids &nbsp;|&nbsp; 🐕 Shih Tzu (7yr uptime)
-🔧 GCam port optimization &nbsp;|&nbsp; 🟧 Rubik's: <10s solve
 
 <br/>
 
