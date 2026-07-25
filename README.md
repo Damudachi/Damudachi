@@ -218,7 +218,7 @@ Colorimetric ML pipeline that grades fish freshness from camera feeds. Eliminate
 ```
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=damudachi&theme=tokyonight"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=damudachi&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damudachi&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=00F0FF&text_color=A9B1D6&langs_count=6"/>
 
 <br/>
 
