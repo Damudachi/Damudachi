@@ -223,7 +223,7 @@ Colorimetric ML pipeline that grades fish freshness from camera feeds. Eliminate
 ```
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=damudachi&theme=tokyonight"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damudachi&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=00F0FF&text_color=A9B1D6&langs_count=6"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=damudachi&theme=tokyonight"/>
 
 <br/>
 
@@ -236,11 +236,7 @@ Colorimetric ML pipeline that grades fish freshness from camera feeds. Eliminate
 
 <br/><br/>
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=damudachi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=damudachi&bg_color=0D1117&color=00F0FF&line=00F0FF&point=FFFFFF&area=true&hide_border=true"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=damudachi&theme=tokyonight"/>
 
 </div>
 
