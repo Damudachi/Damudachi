@@ -62,6 +62,11 @@
 
 ### 📡 ACTIVE THREADS
 
+**Certifications in Progress**
+
+![AWS](https://img.shields.io/badge/AWS%20Cloud%20Compute-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=0D1117)
+![AWS](https://img.shields.io/badge/AWS%20Networking-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=0D1117)
+
 **Open To**
 
 ![ML](https://img.shields.io/badge/AI%2FML%20Research-00F0FF?style=flat-square&labelColor=0D1117)
@@ -70,6 +75,7 @@
 **Background Daemons**
 
 🎮 Nighttime co-op raids &nbsp;|&nbsp; 🐕 Shih Tzu (7yr uptime)
+🔧 GCam port optimization &nbsp;|&nbsp; 🟧 Rubik's: <10s solve
 
 <br/>
 
@@ -216,13 +222,21 @@ Colorimetric ML pipeline that grades fish freshness from camera feeds. Eliminate
 ╚═══════════════════════════════════════╝
 ```
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=damudachi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=A9B1D6"/>
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damudachi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=A9B1D6&langs_count=6"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=damudachi&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=damudachi&theme=tokyonight"/>
+
+<br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=damudachi&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=damudachi&theme=tokyonight&utcOffset=8"/>
 
 <br/><br/>
 
 <img width="68%" src="https://streak-stats.demolab.com?user=damudachi&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=FF6B6B&currStreakLabel=00F0FF&sideLabels=A9B1D6&dates=A9B1D6"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=damudachi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
 
 <br/><br/>
 
@@ -242,7 +256,7 @@ Colorimetric ML pipeline that grades fish freshness from camera feeds. Eliminate
 <!-- FOOTER CTA -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/api?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00F0FF&center=true&vCenter=true&width=600&lines=STATUS%3A+OPEN_TO_CONNECT;AI%2FML+%7C+Cloud+%7C+MLOps+Roles;Let%27s+build+what+doesn%27t+exist+yet.)](https://github.com/damudachi)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00F0FF&center=true&vCenter=true&width=600&lines=STATUS%3A+OPEN_TO_CONNECT;AI%2FML+%7C+Cloud+%7C+MLOps+Roles;Let%27s+build+what+doesn%27t+exist+yet.)](https://github.com/damudachi)
 
 <br/>
 
