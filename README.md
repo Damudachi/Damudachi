@@ -1,7 +1,7 @@
 <!-- NEURAL NETWORK HEADER -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0D1117,30:0a0a2e,60:001a3d,100:00F0FF&text=ALDRICH%20SABANDO&fontColor=00F0FF&fontSize=60&fontAlignY=40&desc=AI%20Engineer%20%C2%B7%20VLM%20Researcher%20%C2%B7%20Cloud%20Architect&descAlignY=60&descSize=17&animation=twinkling&stroke=00F0FF&strokeWidth=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0D1117,30:0a0a2e,60:001a3d,100:00F0FF&text=ALDRICH%20GAVRIEL%20SABANDO&fontColor=00F0FF&fontSize=60&fontAlignY=40&desc=AI%20Engineer%20%C2%B7%20VLM%20Researcher%20%C2%B7%20Cloud%20Architect&descAlignY=60&descSize=17&animation=twinkling&stroke=00F0FF&strokeWidth=2" />
 
 </div>
 
@@ -18,7 +18,7 @@
 <!-- SOCIAL BADGES ROW -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF)](https://www.linkedin.com/in/aldrich-gavriel-sabando-a4b85a348/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF)](https://www.linkedin.com/in/rich-gavriel-sabando-a4b85a348/)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF)](https://github.com/damudachi)
 [![Profile Views](https://komarev.com/ghpvc/?username=damudachi&color=00F0FF&style=for-the-badge&label=SIGNAL+RECEIVED)](https://github.com/damudachi)
 
