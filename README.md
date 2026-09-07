@@ -18,7 +18,7 @@
 <!-- SOCIAL BADGES ROW -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF)](https://www.linkedin.com/in/rich-gavriel-sabando-a4b85a348/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF)](https://www.linkedin.com/in/aldrich-sabando/)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF)](https://github.com/damudachi)
 [![TulongGuro Live](https://img.shields.io/badge/Live_Demo-TulongGuro-10B981?style=for-the-badge&logo=vercel&logoColor=white)](http://tulong-guro.vercel.app/)
 [![Profile Views](https://komarev.com/ghpvc/?username=damudachi&color=00F0FF&style=for-the-badge&label=SIGNAL+RECEIVED)](https://github.com/damudachi)
@@ -64,18 +64,22 @@
 
 ### 📡 ACTIVE THREADS
 
+<br/>
+
 **Open To**
 
 ![AI Engineer](https://img.shields.io/badge/AI%20Engineering%20Roles-00F0FF?style=flat-square&labelColor=0D1117)
 ![Full Stack](https://img.shields.io/badge/Full--Stack%20%26%20Cloud-7B61FF?style=flat-square&labelColor=0D1117)
 
+<br/>
+
 **Background Daemons**
 
 🎮 Nighttime co-op raids &nbsp;|&nbsp; 🐕 Shih Tzu (7yr uptime)
 
-<br/>
+<br/><br/>
 
-> `UPTIME: 22 years | 0 crashes`
+`UPTIME: 22 years | 0 crashes`
 
 </td>
 </tr>
@@ -108,6 +112,8 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=00F0FF)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
 
+<br/>
+
 **`[ MODERN WEB & BACKEND ]`**
 
 ![React 19](https://img.shields.io/badge/React_19-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -116,6 +122,8 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_v4-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 ![Vite](https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=646CFF)
 ![PWA](https://img.shields.io/badge/PWA-0D1117?style=for-the-badge&logo=pwa&logoColor=5A0FC8)
+
+<br/>
 
 **`[ DATA, CLOUD & INFRASTRUCTURE ]`**
 
@@ -154,29 +162,29 @@
 <td width="50%" valign="top">
 
 ### 🦉 `TulongGuro` &nbsp;![CAPSTONE](https://img.shields.io/badge/CAPSTONE-00F0FF?style=flat-square&labelColor=0D1117)
-**AI-Assisted Grading & LMS (DepEd MATATAG)**[cite: 1]
+**AI-Assisted Grading & LMS (DepEd MATATAG)**
 
-Human-in-the-Loop LMS leveraging Gemini 1.5 Flash & Pro for grading handwritten essays and open responses[cite: 1]. Features rubric alignment, progress telemetry, and PWA cross-platform access[cite: 1].
+Human-in-the-Loop LMS leveraging Gemini 1.5 Flash & Pro for grading handwritten essays and open responses. Features rubric alignment, progress telemetry, and PWA cross-platform access.
 
-🌐 **[Live Demo Deployment](http://tulong-guro.vercel.app/)**[cite: 1]
+🌐 **[Live Demo Deployment](http://tulong-guro.vercel.app/)**
 
-![VLM](https://img.shields.io/badge/Gemini_1.5_VLM-0D1117?style=flat-square&color=0D1117)[cite: 1]
-![React 19](https://img.shields.io/badge/React_19_PWA-0D1117?style=flat-square)[cite: 1]
-![Prisma](https://img.shields.io/badge/Prisma_ORM-0D1117?style=flat-square)[cite: 1]
-![Supabase](https://img.shields.io/badge/Supabase_PostgreSQL-0D1117?style=flat-square)[cite: 1]
+![Gemini VLM](https://img.shields.io/badge/Gemini_1.5_VLM-0D1117?style=flat-square)
+![React 19](https://img.shields.io/badge/React_19_PWA-0D1117?style=flat-square)
+![Prisma](https://img.shields.io/badge/Prisma_ORM-0D1117?style=flat-square)
+![Supabase](https://img.shields.io/badge/Supabase_PostgreSQL-0D1117?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🦺 `INTELSY` &nbsp;![ACTIVE](https://img.shields.io/badge/ACTIVE-00FF88?style=flat-square&labelColor=0D1117)
-**Industrial PPE Compliance Vision System**[cite: 2]
+**Industrial PPE Compliance Vision System**
 
-Real-time compliance monitoring using fine-tuned YOLOv8 to detect hardhats, safety vests, and masks in worksite environments[cite: 2]. Includes structured ablation suites and live camera inference[cite: 2].
+Real-time compliance monitoring using fine-tuned YOLOv8 to detect hardhats, safety vests, and masks in worksite environments. Includes structured ablation suites and live camera inference.
 
-![YOLOv8](https://img.shields.io/badge/YOLOv8-0D1117?style=flat-square)[cite: 2]
-![Roboflow](https://img.shields.io/badge/Roboflow_Dataset-0D1117?style=flat-square)[cite: 2]
-![Real-Time](https://img.shields.io/badge/Real--Time_Webcam-0D1117?style=flat-square)[cite: 2]
-![Privacy Safe](https://img.shields.io/badge/No_Biometrics-0D1117?style=flat-square)[cite: 2]
+![YOLOv8](https://img.shields.io/badge/YOLOv8-0D1117?style=flat-square)
+![Roboflow](https://img.shields.io/badge/Roboflow_Dataset-0D1117?style=flat-square)
+![Real-Time](https://img.shields.io/badge/Real--Time_Webcam-0D1117?style=flat-square)
+![Privacy Safe](https://img.shields.io/badge/No_Biometrics-0D1117?style=flat-square)
 
 </td>
 </tr>
@@ -184,14 +192,14 @@ Real-time compliance monitoring using fine-tuned YOLOv8 to detect hardhats, safe
 <td width="50%" valign="top">
 
 ### 📖 `LiturgyGen` &nbsp;![PRODUCTION](https://img.shields.io/badge/PRODUCTION-7B61FF?style=flat-square&labelColor=0D1117)
-**Missalette Publishing & Scraper Engine**[cite: 3]
+**Missalette Publishing & Scraper Engine**
 
-Full-stack lectionary compilation engine built for the Campus Ministry Office[cite: 3]. Resolves Philippine liturgical dates via `romcal`, executes rate-spaced web scraping, and compiles publication-ready `.docx` documents[cite: 3].
+Full-stack lectionary compilation engine built for the Campus Ministry Office. Resolves Philippine liturgical dates via `romcal`, executes rate-spaced web scraping, and compiles publication-ready `.docx` documents.
 
-![Node.js](https://img.shields.io/badge/Node.js_Express-0D1117?style=flat-square)[cite: 3]
-![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=flat-square)[cite: 3]
-![Web Scraping](https://img.shields.io/badge/USCCB_Queue_Scraper-0D1117?style=flat-square)[cite: 3]
-![docx](https://img.shields.io/badge/Automated_.docx-0D1117?style=flat-square)[cite: 3]
+![Node.js](https://img.shields.io/badge/Node.js_Express-0D1117?style=flat-square)
+![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=flat-square)
+![Web Scraping](https://img.shields.io/badge/USCCB_Queue_Scraper-0D1117?style=flat-square)
+![docx](https://img.shields.io/badge/Automated_.docx-0D1117?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
@@ -261,8 +269,9 @@ Non-invasive fish freshness assessment pipeline utilizing colorimetric image pro
 
 <br/>
 
-> *"The best engineers aren't the ones who write the most code.*
-> *They're the ones who build things that actually matter."*
+<p align="center">
+<em>"The best engineers aren't the ones who write the most code.<br/>They're the ones who build things that actually matter."</em>
+</p>
 
 <br/>
 
