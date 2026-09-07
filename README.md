@@ -1,7 +1,7 @@
 <!-- NEURAL NETWORK HEADER -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0D1117,30:0a0a2e,60:001a3d,100:00F0FF&text=ALDRICH%20GAVRIEL%20SABANDO&fontColor=00F0FF&fontSize=60&fontAlignY=40&desc=AI%20Engineer%20%C2%B7%20VLM%20Researcher%20%C2%B7%20Cloud%20Architect&descAlignY=60&descSize=17&animation=twinkling&stroke=00F0FF&strokeWidth=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0D1117,30:0a0a2e,60:001a3d,100:00F0FF&text=ALDRICH%20GAVRIEL%20SABANDO&fontColor=00F0FF&fontSize=60&fontAlignY=40&desc=AI%20Engineer%20%C2%B7%20VLM%20Researcher%20%C2%B7%20Full-Stack%20Architect&descAlignY=60&descSize=17&animation=twinkling&stroke=00F0FF&strokeWidth=2" />
 
 </div>
 
@@ -9,7 +9,7 @@
 <div align="center">
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=Building+Vision-Language+Models;Architecting+Edge-to-Cloud+AI+Pipelines;Real-Time+Computer+Vision;Deploying+Neural+Networks+that+matter.)](https://github.com/damudachi)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=Building+Multimodal+Vision-Language+Pipelines;Fine-Tuning+Real-Time+YOLOv8+Architectures;Engineering+Fault-Tolerant+Web+Pipelines;Deploying+Neural+Networks+that+matter.)](https://github.com/damudachi)
 
 </div>
 
@@ -20,6 +20,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF)](https://www.linkedin.com/in/rich-gavriel-sabando-a4b85a348/)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF)](https://github.com/damudachi)
+[![TulongGuro Live](https://img.shields.io/badge/Live_Demo-TulongGuro-10B981?style=for-the-badge&logo=vercel&logoColor=white)](http://tulong-guro.vercel.app/)
 [![Profile Views](https://komarev.com/ghpvc/?username=damudachi&color=00F0FF&style=for-the-badge&label=SIGNAL+RECEIVED)](https://github.com/damudachi)
 
 </div>
@@ -46,16 +47,17 @@
 | 🌏 **Location** | Mabalacat, Pampanga 🇵🇭 |
 | 🎓 **Degree** | B.S. Computer Science |
 | 🏛️ **University** | Holy Angel University |
-| ⚙️ **Status** | `compiling_thesis.exe` |
+| 🏆 **Honors** | 6x President's Lister • 1x Dean's Lister |
+| ⚙️ **Status** | `deploying_production_vlm.exe` |
 
 <br/>
 
 **Core Domains**
 
 ![VLM](https://img.shields.io/badge/Vision--Language%20Models-00F0FF?style=flat-square&labelColor=0D1117&color=00F0FF&logoColor=white)
-![Edge AI](https://img.shields.io/badge/Edge--to--Cloud%20AI-00F0FF?style=flat-square&labelColor=0D1117&color=0099CC)
+![HITL](https://img.shields.io/badge/Human--in--the--Loop%20AI-00F0FF?style=flat-square&labelColor=0D1117&color=0099CC)
 ![CV](https://img.shields.io/badge/Real--Time%20Computer%20Vision-00F0FF?style=flat-square&labelColor=0D1117&color=7B61FF)
-![LLM](https://img.shields.io/badge/LLM%20Fine--Tuning-00F0FF?style=flat-square&labelColor=0D1117&color=00CC88)
+![FullStack](https://img.shields.io/badge/Modern%20Full--Stack-00F0FF?style=flat-square&labelColor=0D1117&color=00CC88)
 
 </td>
 <td width="50%" valign="top" align="center">
@@ -64,8 +66,8 @@
 
 **Open To**
 
-![ML](https://img.shields.io/badge/AI%2FML%20Research-00F0FF?style=flat-square&labelColor=0D1117)
-![Cloud](https://img.shields.io/badge/Cloud%20%26%20MLOps%20Roles-7B61FF?style=flat-square&labelColor=0D1117)
+![AI Engineer](https://img.shields.io/badge/AI%20Engineering%20Roles-00F0FF?style=flat-square&labelColor=0D1117)
+![Full Stack](https://img.shields.io/badge/Full--Stack%20%26%20Cloud-7B61FF?style=flat-square&labelColor=0D1117)
 
 **Background Daemons**
 
@@ -97,29 +99,33 @@
 ╚══════════════════════════════════════════════════════╝
 ```
 
-**`[ AI / ML ]`**
+**`[ AI / ML & VISION ]`**
 
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00F0FF)
+![Gemini API](https://img.shields.io/badge/Google_Gemini_VLM-0D1117?style=for-the-badge&logo=google&logoColor=4285F4)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-0D1117?style=for-the-badge&logoColor=00F0FF)
 ![OpenCV](https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=00F0FF)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
 
-**`[ CLOUD & INFRASTRUCTURE ]`**
+**`[ MODERN WEB & BACKEND ]`**
 
+![React 19](https://img.shields.io/badge/React_19-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=FFFFFF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_v4-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Vite](https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=646CFF)
+![PWA](https://img.shields.io/badge/PWA-0D1117?style=for-the-badge&logo=pwa&logoColor=5A0FC8)
+
+**`[ DATA, CLOUD & INFRASTRUCTURE ]`**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![Prisma](https://img.shields.io/badge/Prisma_ORM-0D1117?style=for-the-badge&logo=prisma&logoColor=2D3748)
+![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=003B57)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![NGINX](https://img.shields.io/badge/NGINX-0D1117?style=for-the-badge&logo=nginx&logoColor=009639)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=00F0FF)
-
-**`[ WEB & DATA ]`**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 
 </div>
 
@@ -147,52 +153,57 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 `TulongGuro` &nbsp;![THESIS](https://img.shields.io/badge/THESIS-00F0FF?style=flat-square&labelColor=0D1117)
-**Hybrid Edge-to-Cloud VLM Feedback System**
+### 🦉 `TulongGuro` &nbsp;![CAPSTONE](https://img.shields.io/badge/CAPSTONE-00F0FF?style=flat-square&labelColor=0D1117)
+**AI-Assisted Grading & LMS (DepEd MATATAG)**[cite: 1]
 
-Automated grading and feedback engine for Grade 6 learners. Deploys Vision-Language Models on the edge, offloads heavy inference to AWS cloud pipelines.
+Human-in-the-Loop LMS leveraging Gemini 1.5 Flash & Pro for grading handwritten essays and open responses[cite: 1]. Features rubric alignment, progress telemetry, and PWA cross-platform access[cite: 1].
 
-![VLM](https://img.shields.io/badge/Vision--Language%20Models-0D1117?style=flat-square&color=0D1117)
-![AWS](https://img.shields.io/badge/AWS%20Edge--Cloud-0D1117?style=flat-square&logo=amazonaws&logoColor=FF9900)
-![CRISP-DM](https://img.shields.io/badge/CRISP--DM-0D1117?style=flat-square)
+🌐 **[Live Demo Deployment](http://tulong-guro.vercel.app/)**[cite: 1]
+
+![VLM](https://img.shields.io/badge/Gemini_1.5_VLM-0D1117?style=flat-square&color=0D1117)[cite: 1]
+![React 19](https://img.shields.io/badge/React_19_PWA-0D1117?style=flat-square)[cite: 1]
+![Prisma](https://img.shields.io/badge/Prisma_ORM-0D1117?style=flat-square)[cite: 1]
+![Supabase](https://img.shields.io/badge/Supabase_PostgreSQL-0D1117?style=flat-square)[cite: 1]
 
 </td>
 <td width="50%" valign="top">
 
-### 🦺 `MIGHT-TEAM_INTELSY` &nbsp;![ACTIVE](https://img.shields.io/badge/ACTIVE-00FF88?style=flat-square&labelColor=0D1117)
-**Industrial Safety AI Monitor**
+### 🦺 `INTELSY` &nbsp;![ACTIVE](https://img.shields.io/badge/ACTIVE-00FF88?style=flat-square&labelColor=0D1117)
+**Industrial PPE Compliance Vision System**[cite: 2]
 
-Real-time PPE compliance detection deployed in industrial environments. Achieves sub-100ms inference for on-site worker safety enforcement.
+Real-time compliance monitoring using fine-tuned YOLOv8 to detect hardhats, safety vests, and masks in worksite environments[cite: 2]. Includes structured ablation suites and live camera inference[cite: 2].
 
-![YOLOv8](https://img.shields.io/badge/YOLOv8-0D1117?style=flat-square)
-![Object Detection](https://img.shields.io/badge/Object%20Detection-0D1117?style=flat-square)
-![Real-Time](https://img.shields.io/badge/Real--Time%20Inference-0D1117?style=flat-square)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-0D1117?style=flat-square)[cite: 2]
+![Roboflow](https://img.shields.io/badge/Roboflow_Dataset-0D1117?style=flat-square)[cite: 2]
+![Real-Time](https://img.shields.io/badge/Real--Time_Webcam-0D1117?style=flat-square)[cite: 2]
+![Privacy Safe](https://img.shields.io/badge/No_Biometrics-0D1117?style=flat-square)[cite: 2]
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🏢 `Facility Ops NLP` &nbsp;![DEPLOYED](https://img.shields.io/badge/DEPLOYED-7B61FF?style=flat-square&labelColor=0D1117)
-**Helpdesk Automation AI**
+### 📖 `LiturgyGen` &nbsp;![PRODUCTION](https://img.shields.io/badge/PRODUCTION-7B61FF?style=flat-square&labelColor=0D1117)
+**Missalette Publishing & Scraper Engine**[cite: 3]
 
-BERT-powered ticket classification engine for commercial mall helpdesks. Automated categorization of maintenance requests at scale.
+Full-stack lectionary compilation engine built for the Campus Ministry Office[cite: 3]. Resolves Philippine liturgical dates via `romcal`, executes rate-spaced web scraping, and compiles publication-ready `.docx` documents[cite: 3].
 
-![BERT](https://img.shields.io/badge/BERT-0D1117?style=flat-square&logoColor=FFD21E)
-![NLP](https://img.shields.io/badge/NLP%20Classification-0D1117?style=flat-square)
-![Pipeline](https://img.shields.io/badge/Pipeline%20Engineering-0D1117?style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js_Express-0D1117?style=flat-square)[cite: 3]
+![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=flat-square)[cite: 3]
+![Web Scraping](https://img.shields.io/badge/USCCB_Queue_Scraper-0D1117?style=flat-square)[cite: 3]
+![docx](https://img.shields.io/badge/Automated_.docx-0D1117?style=flat-square)[cite: 3]
 
 </td>
 <td width="50%" valign="top">
 
-### 🐟 `AquaFresh` &nbsp;![DEPLOYED](https://img.shields.io/badge/DEPLOYED-7B61FF?style=flat-square&labelColor=0D1117)
-**Computer Vision Quality Analyst**
+### 🐟 `AquaFresh` &nbsp;![RESEARCH](https://img.shields.io/badge/RESEARCH-7B61FF?style=flat-square&labelColor=0D1117)
+**Computer Vision Quality Classifier**
 
-Colorimetric ML pipeline that grades fish freshness from camera feeds. Eliminates human subjectivity in food quality assessments.
+Non-invasive fish freshness assessment pipeline utilizing colorimetric image processing in OpenCV and deep convolutional neural networks to eliminate subjective quality inspection.
 
-![ML](https://img.shields.io/badge/Machine%20Learning-0D1117?style=flat-square)
 ![OpenCV](https://img.shields.io/badge/OpenCV-0D1117?style=flat-square&logo=opencv&logoColor=00F0FF)
-![Image Processing](https://img.shields.io/badge/Image%20Processing-0D1117?style=flat-square)
+![Color Space](https://img.shields.io/badge/HSV%2FLAB_Analysis-0D1117?style=flat-square)
+![CNN](https://img.shields.io/badge/CNN_Classifier-0D1117?style=flat-square)
 
 </td>
 </tr>
@@ -246,7 +257,7 @@ Colorimetric ML pipeline that grades fish freshness from camera feeds. Eliminate
 <!-- FOOTER CTA -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00F0FF&center=true&vCenter=true&width=600&lines=STATUS%3A+OPEN_TO_CONNECT;AI%2FML+%7C+Cloud+%7C+MLOps+Roles;Let%27s+build+what+doesn%27t+exist+yet.)](https://github.com/damudachi)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00F0FF&center=true&vCenter=true&width=600&lines=STATUS%3A+OPEN_TO_CONNECT;AI%2FML+%7C+Cloud+%7C+Full-Stack;Let%27s+build+what+doesn%27t+exist+yet.)](https://github.com/damudachi)
 
 <br/>
 
